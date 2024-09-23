@@ -4,3 +4,4 @@ wow
 rthen
 ok i understand
 now its remote 5
+locale change 6
